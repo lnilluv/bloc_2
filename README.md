@@ -6,7 +6,7 @@
 
 ## Contact
 
-You can write me at **laurent.nilluv@gmail.com*
+You can write me at **laurent.nilluv@gmail.com**
 
 ## Context 
 
