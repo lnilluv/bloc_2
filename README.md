@@ -27,3 +27,4 @@ Understand what makes people interested into each other to go on a second date t
 ## References
 
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
+- Regression idea thanks to Alexon: https://github.com/Alexon1999
