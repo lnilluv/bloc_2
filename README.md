@@ -1,9 +1,5 @@
 # <p align="center"><font color='#FE605F'>♡ Speed Dating ♡</font></p>
 
-## Video presentation
-
-[Speed Dating - Video presentation](https://youtu.be/ivT5bt7ErX8)
-
 ## Contact
 
 You can contact me at **laurent.nilluv@gmail.com**
